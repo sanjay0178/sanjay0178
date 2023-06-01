@@ -1,8 +1,8 @@
 # Hey 👋, This is Sanjay Kurmi
 ### About me 🤓
-A tech enthusiast with a passion to solve problems and making things. Proven skills in Backend Development, Android application development, C++ programming, and algorithmic problem-solving, and I believe that I am a versatile learner and can get going with any sort of work.
+A tech enthusiast with a passion to solve problems and making things. Proven skills in Backend Development, Android and iOS application development, C++ programming, and algorithmic problem-solving, and I believe that I am a versatile learner and can get going with any sort of work.
 
-Skills: Web Developer | C++ | Java | Android Developer | Competitive Programmer.
+Skills: Web Developer | C++ | Kotlin | Android Developer | iOS Developer | Competitive Programmer.
 
 Position: Associate Software Engineer @ Cogoport.
 
